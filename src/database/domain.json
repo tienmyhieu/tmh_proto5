@@ -1,0 +1,10 @@
+{
+  "tmh5.com": { "active": "1", "country": "VN", "dir": "rtl", "language": "vi", "locale": "vi-VN", "sub_domain": "", "title": "bjz13fdk" },
+  "en.tmh5.com": { "active": "0", "country": "GB", "dir": "rtl", "language": "en", "locale": "en-GB", "sub_domain": "en.", "title": "hisnjifi" },
+  "fr.tmh5.com": { "active": "0", "country": "FR", "dir": "rtl", "language": "fr", "locale": "fr-FR", "sub_domain": "fr.", "title": "bz93sqlw" },
+  "ja.tmh5.com": { "active": "0", "country": "JP", "dir": "rtl", "language": "ja", "locale": "ja-JP", "sub_domain": "ja.", "title": "npnneizp" },
+  "vi.tmh5.com": { "active": "0", "country": "VN", "dir": "rtl", "language": "vi", "locale": "vi-VN", "sub_domain": "vi.", "title": "bjz13fdk" },
+  "www.tmh5.com": { "active": "0", "country": "VN", "dir": "rtl", "language": "vi", "locale": "vi-VN", "sub_domain": "www.", "title": "bjz13fdk" },
+  "zh-cn.tmh5.com": { "active": "1", "country": "CN", "dir": "rtl", "language": "zh", "locale": "zh-CN", "sub_domain": "zh-cn.", "title": "fm5r1isz" },
+  "zh-hk.tmh5.com": { "active": "0", "country": "HK", "dir": "rtl", "language": "zh", "locale": "zh-HK", "sub_domain": "zh-hk.", "title": "gvwklue3" }
+}

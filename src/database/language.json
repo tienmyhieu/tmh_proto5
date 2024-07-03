@@ -1,0 +1,8 @@
+{
+  "de": { "active": "0", "continent": "EU", "native_name": "Deutsch", "script": "Latn", "translated": "ro8a92yv" },
+  "en": { "active": "1", "continent": "EU", "native_name": "English", "script": "Latn", "translated": "hisnjifi" },
+  "fr": { "active": "1", "continent": "EU", "native_name": "Français", "script": "Latn", "translated": "bz93sqlw" },
+  "ja": { "active": "1", "continent": "AS", "native_name": "日本語", "script": "Jpan", "translated": "npnneizp" },
+  "vi": { "active": "1", "continent": "AS", "native_name": "Tiếng Việt", "script": "Latn", "translated": "bjz13fdk" },
+  "zh": { "active": "1", "continent": "AS", "native_name": "中文", "script": "Hani", "translated": "m5a85pe1" }
+}

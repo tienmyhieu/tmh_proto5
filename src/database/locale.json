@@ -1,0 +1,6 @@
+{
+  "zh-CN": { "active": "1", "country": "CN", "language": "zh", "native_name": "中文 中国大陆简体", "script": "Hans", "translated": "fm5r1isz" },
+  "zh-HK": { "active": "1", "country": "HK", "language": "zh", "native_name": "中文 香港繁體", "script": "Hant", "translated": "gvwklue3" },
+  "zh-MO": { "active": "1", "country": "MO", "language": "zh", "native_name": "中文 澳門繁體", "script": "Hant", "translated": "nmr4v2af" },
+  "zh-SG": { "active": "1", "country": "SG", "language": "zh", "native_name": "中文 新加坡简体", "script": "Hans", "translated": "wz520aru" }
+}

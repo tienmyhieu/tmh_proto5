@@ -1,0 +1,19 @@
+{
+  "9a8xgmbq": { "destination_field": "locales", "destination_table": "locale_group", "source_table": "locale", "source_field": "", "type": "min" },
+  "ertaamkb": { "destination_field": "href", "destination_table": "route", "source_table": "locale_group", "source_field": "locales", "type": "min" },
+  "qqmbwspn": { "destination_field": "innerHtml", "destination_table": "route", "source_table": "locale", "source_field": "", "type": "min" },
+  "nditqivv": { "destination_field": "title", "destination_table": "route", "source_table": "locale_group", "source_field": "locales", "type": "min" },
+  "23ztn91e": { "destination_field": "title", "destination_table": "route_group", "source_table": "locale_group", "source_field": "locales", "type": "min" },
+  "spfzmdzp": { "destination_field": "title", "destination_table": "entity_route_group_wrapper", "source_table": "locale_group", "source_field": "locales", "type": "min" },
+  "cxyvlbcq": { "destination_field": "page_description", "destination_table": "entity_metadata", "source_table": "locale", "source_field": "", "type": "full" },
+  "fs4pi4a4": { "destination_field": "page_title", "destination_table": "entity_metadata", "source_table": "locale", "source_field": "", "type": "full" },
+  "ytwucasw": { "destination_field": "page_sub_title", "destination_table": "entity_metadata", "source_table": "locale", "source_field": "", "type": "full" },
+  "ofh8yyqq": { "destination_field": "meta_description", "destination_table": "entity_metadata", "source_table": "locale_group", "source_field": "locales", "type": "full" },
+  "rn5bl4s5": { "destination_field": "meta_keywords", "destination_table": "entity_metadata", "source_table": "locale_group", "source_field": "locales", "type": "full" },
+  "dvmbqqs2": { "destination_field": "innerHtml", "destination_table": "inner_html", "source_table": "locale", "source_field": "", "type": "min" },
+  "zhoapcrr": { "destination_field": "translated", "destination_table": "language", "source_table": "locale", "source_field": "", "type": "min" },
+  "k4f2i1kc": { "destination_field": "href", "destination_table": "list", "source_table": "locale_group", "source_field": "locales", "type": "min" },
+  "vns9r9cv": { "destination_field": "innerHtml", "destination_table": "list", "source_table": "locale", "source_field": "", "type": "min" },
+  "f1pghuac": { "destination_field": "title", "destination_table": "list", "source_table": "locale_group", "source_field": "locales", "type": "min" },
+  "8fbz3x4k": { "destination_field": "translated", "destination_table": "locale", "source_table": "locale", "source_field": "", "type": "min" }
+}

@@ -1,0 +1,34 @@
+{
+  "childNodes": [
+    { "htmlTag": "html", "attributes": { "lang": "en" }, "childNodes": [
+      { "htmlTag": "head", "attributes": {}, "childNodes": [
+        { "htmlTag": "meta", "attributes": { "charset": "utf-8" }, "childNodes": [], "innerHTML": "", "selfClosing": true },
+        { "htmlTag": "title", "attributes": {}, "childNodes": [], "innerHTML": "Tien My Hieu", "selfClosing": false },
+        { "htmlTag": "meta", "attributes": { "name": "description", "content": "Tien My Hieu is a database for researchers and collectors of Nguyễn dynasty reward money" }, "childNodes": [], "innerHTML": "", "selfClosing": true },
+        { "htmlTag": "meta", "attributes": { "name": "viewport", "content": "width=device-width, initial-scale=1.0" }, "childNodes": [], "innerHTML": "", "selfClosing": true },
+        { "htmlTag": "link", "attributes": { "rel": "stylesheet", "href": "http://cdn.tienmyhieu.com/css/tienmyhieu.css" }, "childNodes": [], "innerHTML": "", "selfClosing": true },
+        { "htmlTag": "link", "attributes": { "rel": "icon", "href": "http://cdn.tienmyhieu.com/images/favicon.png", "type": "image/png" }, "childNodes": [], "innerHTML": "", "selfClosing": true }
+      ], "innerHTML": "", "selfClosing": false },
+      { "htmlTag": "body", "attributes": {}, "childNodes": [
+        { "htmlTag": "div", "attributes": { "class": "tmh_row" }, "childNodes": [
+          { "htmlTag": "div", "attributes": { "class": "tmh_column_left_wide" }, "childNodes": [], "innerHTML": "&nbsp;", "selfClosing": false },
+          { "htmlTag": "div", "attributes": { "class": "tmh_column_center_narrow" }, "childNodes": [
+            { "htmlTag": "div", "attributes": { "class": "tmh_column_pad_top" }, "childNodes": [], "innerHTML": "&nbsp;", "selfClosing": false },
+            { "htmlTag": "div", "attributes": { "class": "tmh_widget" }, "childNodes": [
+              { "htmlTag": "div", "attributes": { "class": "tmh_widget_title" }, "childNodes": [], "innerHTML": "简体 / 繁體 ?", "selfClosing": false },
+              { "htmlTag": "div", "attributes": { "class": "tmh_widget_row" }, "childNodes": [
+                { "htmlTag": "div", "attributes": { "class": "tmh_widget_colum_left" }, "childNodes": [
+                  { "htmlTag": "api", "attributes": { "entity": "locale", "query": [{ "script": "Hans" }] }, "childNodes": [], "innerHTML": "", "selfClosing": false }
+                ], "innerHTML": "", "selfClosing": false },
+                { "htmlTag": "div", "attributes": { "class": "tmh_widget_colum_right" }, "childNodes": [
+                  { "htmlTag": "api", "attributes": { "entity": "locale", "query": [{ "script": "Hant" }] }, "childNodes": [], "innerHTML": "", "selfClosing": false }
+                ], "innerHTML": "", "selfClosing": false }
+              ], "innerHTML": "", "selfClosing": false }
+            ], "innerHTML": "", "selfClosing": false }
+          ], "innerHTML": "", "selfClosing": false },
+          { "htmlTag": "div", "attributes": { "class": "tmh_column_right_wide" }, "childNodes": [], "innerHTML": "&nbsp;", "selfClosing": false }
+        ], "innerHTML": "", "selfClosing": false }
+      ], "innerHTML": "", "selfClosing": false }
+    ], "innerHTML": "", "selfClosing": false }
+  ]
+}
