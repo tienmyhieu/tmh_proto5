@@ -1,0 +1,10 @@
+{
+  "9a8xgmbq": { "destination_field": "locales", "destination_table": "locale_group", "source_table": "locale", "source_field": "" },
+  "ertaamkb": { "destination_field": "href", "destination_table": "route", "source_table": "locale_group", "source_field": "locales" },
+  "qqmbwspn": { "destination_field": "innerHtml", "destination_table": "route", "source_table": "locale", "source_field": "" },
+  "nditqivv": { "destination_field": "title", "destination_table": "route", "source_table": "locale_group", "source_field": "locales" },
+  "23ztn91e": { "destination_field": "title", "destination_table": "route_group", "source_table": "locale_group", "source_field": "locales" },
+  "cxyvlbcq": { "destination_field": "page_description", "destination_table": "entity_metadata", "source_table": "locale", "source_field": "" },
+  "fs4pi4a4": { "destination_field": "page_title", "destination_table": "entity_metadata", "source_table": "locale", "source_field": "" },
+  "ytwucasw": { "destination_field": "page_sub_title", "destination_table": "entity_metadata", "source_table": "locale", "source_field": "" }
+}
